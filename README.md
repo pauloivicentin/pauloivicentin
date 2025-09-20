@@ -11,8 +11,8 @@
 - Aprimorando conhecimento em Data Science
 
 ## Habilidades Técnicas / Teck stecks
-- **Linguagens & Dados:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL), ETL  
-- **Business Intelligence:** Power BI (DAX, Power Query), Excel Avançado  
+- **Linguagens & Dados:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL), ETL  
+- **Business Intelligence:** Power BI (DAX, Power Query), Excel, Figma
 - **Cloud & Big Data:** Fundamentos de AWS (S3, Glue, Athena), Databricks, Spark SQL  
 - **Ferramentas de Gestão:** Notion, Trello, G-Suite  
 
