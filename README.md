@@ -1,4 +1,4 @@
-# 👋 Bem vindo ao meu repositório no Git!
+# Seja bem vindo =)
 
 ## Sobre mim / About me
 Sou Engenheiro Civil de formação e cofundador da **Helius Engenharia** em Maringá-PR.  
