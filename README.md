@@ -1,11 +1,8 @@
 # 👋 Bem vindo ao meu repositório no Git!
----
 
-## Sobre mim / 
+## Sobre mim / About me
 Sou Engenheiro Civil de formação e cofundador da **Helius Engenharia** em Maringá-PR.  
-Atuei por 5 anos na gestão financeira e operacional, estruturando processos orientados por dados, desenvolvendo dashboards em Power BI e implementando automações que apoiaram mais de **200 projetos entregues** e mais de **R$10 milhões em faturamento**.  
-
-Hoje foco em **Data Analytics**, unindo experiência de negócio com habilidades técnicas para gerar insights claros e acionáveis.
+Atuei por 5 anos na empresa na área estratégica, como analista de dados, gestão financeira e operacional, estruturando processos orientados por dados, desenvolvendo dashboards em Power BI. 
 
 ---
 
