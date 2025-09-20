@@ -10,9 +10,6 @@
 - Atuação estratégica e empreendedora na Helius Engenharia (5 anos de atuação e +200 projetos entregues)
 - Aprimorando conhecimento em Data Science
 
-
----
-
 ## Habilidades Técnicas / Teck stecks
 - **Linguagens & Dados:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL), ETL  
 - **Business Intelligence:** Power BI (DAX, Power Query), Excel Avançado  
