@@ -19,14 +19,11 @@
 
 ## Projetos publicados no Medium / Projects at Medium
 
-🔹 [**Dashboard de Cobrança – Educação**](#)  
-KPIs de inadimplência, aging e recuperação de crédito em Power BI.  
+🔹 [**Validação de Mercado: Curso Online de Trading Algorítmico**](https://medium.com/@paulo.iacono1/valida%C3%A7%C3%A3o-de-mercado-curso-online-de-trading-algor%C3%ADtmico-1e082f01f31f)  
 
-🔹 [**Value at Risk (VaR) – B3**](#)  
-Análise de risco em carteiras de ações com Python, SQL e validação por backtesting.  
+🔹 [**Diminuição de Turnover em Empresa de Tecnologia.**](https://medium.com/@paulo.iacono1/diminui%C3%A7%C3%A3o-de-turnover-em-empresa-de-tecnologia-eec69080a6dd)   
 
-🔹 [**ETL Energia Solar (GD)**](#)  
-Tratamento e padronização de dados da ANEEL para análises setoriais.  
+🔹 [**VaR em Carteiras de Investimento: análise de desempenho e limitações**]((https://medium.com/@paulo.iacono1/var-em-carteiras-de-investimento-an%C3%A1lise-de-desempenho-e-limita%C3%A7%C3%B5es-diante-de-eventos-externos-d547d3b131a6))   
 
 
 
