@@ -1,14 +1,14 @@
-# Seja bem vindo =)
+# Seja bem vindo :)
 
 ## Sobre mim / About me
 
-- 👤 29 anos  
-- 📊 Analista de Dados, foco em **Python, SQL, Power BI e Excel**  
-- 📈 Experiência em **gestão financeira, operações e análise de performance**  
-- 💡 Atuação em **dashboards, ETL de dados e geração de insights para negócios**  
-- 🎓 Engenheiro Civil formado pela UEM (Universidade Estadual de Maringá)  
-- 🌍 Intercâmbio na Universidade do Porto (Portugal) com ênfase em gestão  
-- 🏗 Cofundador da Helius Engenharia (5 anos de atuação e +200 projetos entregues)  
+- 29 anos
+- Analista de Dados | Business Intelligence 
+- Experiência com Excel, PowerBI, SQL e Python;
+- Engenheiro Civil formado pela UEM (Universidade Estadual de Maringá)  
+- Intercâmbio na Universidade do Porto (Portugal) com ênfase em gestão  
+- Atuação estratégica e empreendedora na Helius Engenharia (5 anos de atuação e +200 projetos entregues)
+- Aprimorando conhecimento em Data Science
 
 
 ---
