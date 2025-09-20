@@ -18,7 +18,8 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Meus projetos / My projects
+
 🔹 [**Dashboard de Cobrança – Educação**](#)  
 KPIs de inadimplência, aging e recuperação de crédito em Power BI.  
 
@@ -28,9 +29,9 @@ Análise de risco em carteiras de ações com Python, SQL e validação por back
 🔹 [**ETL Energia Solar (GD)**](#)  
 Tratamento e padronização de dados da ANEEL para análises setoriais.  
 
----
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://linkedin.com/in/SEULINK)  
+- [LinkedIn](https://linkedin.com/in/SEULINK)
+- paulo.iacono1@gmail.com
 
