@@ -23,7 +23,7 @@
 
 🔹 [**Diminuição de Turnover em Empresa de Tecnologia.**](https://medium.com/@paulo.iacono1/diminui%C3%A7%C3%A3o-de-turnover-em-empresa-de-tecnologia-eec69080a6dd)   
 
-🔹 [**VaR em Carteiras de Investimento: análise de desempenho e limitações**]((https://medium.com/@paulo.iacono1/var-em-carteiras-de-investimento-an%C3%A1lise-de-desempenho-e-limita%C3%A7%C3%B5es-diante-de-eventos-externos-d547d3b131a6))   
+🔹 [**VaR em Carteiras de Investimento: análise de desempenho e limitações**](https://medium.com/@paulo.iacono1/var-em-carteiras-de-investimento-an%C3%A1lise-de-desempenho-e-limita%C3%A7%C3%B5es-diante-de-eventos-externos-d547d3b131a6))   
 
 
 
