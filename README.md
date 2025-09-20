@@ -16,9 +16,8 @@
 - **Cloud & Big Data:** Fundamentos de AWS (S3, Glue, Athena), Databricks, Spark SQL  
 - **Ferramentas de Gestão:** Notion, Trello, G-Suite  
 
----
 
-## 📌 Meus projetos / My projects
+## Projetos publicados no Medium / Projects at Medium
 
 🔹 [**Dashboard de Cobrança – Educação**](#)  
 KPIs de inadimplência, aging e recuperação de crédito em Power BI.  
@@ -30,7 +29,8 @@ Análise de risco em carteiras de ações com Python, SQL e validação por back
 Tratamento e padronização de dados da ANEEL para análises setoriais.  
 
 
-## 📫 Contato
+
+## Contato / Contact
 
 - [LinkedIn](https://linkedin.com/in/SEULINK)
 - paulo.iacono1@gmail.com
