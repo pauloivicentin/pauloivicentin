@@ -1,8 +1,15 @@
 # Seja bem vindo =)
 
 ## Sobre mim / About me
-Sou Engenheiro Civil de formação e cofundador da **Helius Engenharia** em Maringá-PR.  
-Atuei por 5 anos na empresa na área estratégica, como analista de dados, gestão financeira e operacional, estruturando processos orientados por dados, desenvolvendo dashboards em Power BI. 
+
+- 👤 29 anos  
+- 📊 Analista de Dados, foco em **Python, SQL, Power BI e Excel**  
+- 📈 Experiência em **gestão financeira, operações e análise de performance**  
+- 💡 Atuação em **dashboards, ETL de dados e geração de insights para negócios**  
+- 🎓 Engenheiro Civil formado pela UEM (Universidade Estadual de Maringá)  
+- 🌍 Intercâmbio na Universidade do Porto (Portugal) com ênfase em gestão  
+- 🏗 Cofundador da Helius Engenharia (5 anos de atuação e +200 projetos entregues)  
+
 
 ---
 
