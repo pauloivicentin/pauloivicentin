@@ -2,7 +2,6 @@
 
 ## Sobre mim / About me
 
-- 29 anos
 - Analista de Dados | Business Intelligence 
 - Experiência com Excel, PowerBI, SQL e Python;
 - Engenheiro Civil formado pela UEM (Universidade Estadual de Maringá)  
