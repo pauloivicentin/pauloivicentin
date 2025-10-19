@@ -13,7 +13,7 @@
 
 > Bancos de Dados: MySQL, PostgreSQL, SQLite
 
-> Linguagens de Programação: Python (NumPy, Pandas)
+> Linguagens de Programação: Python (NumPy, Pandas, Matplotlib)
 
 > Ambiente de Desenvolvimento: VS Code, Git, GitHub
 
