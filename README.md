@@ -3,7 +3,7 @@
 ## Sobre mim / About me
 
 - Analista de Dados | Business Intelligence 
-- Engenheiro Civil formado pela UEM (Universidade Estadual de Maringá)  
+- Engenheiro Civil de formação pela UEM (Universidade Estadual de Maringá)  
 - Intercâmbio na Universidade do Porto (Portugal) com ênfase em gestão  
 - 5 anos de experiencia em atuação estratégica e empreendedora na Helius Engenharia 
 - Realizando MBA de Data Analytics & Data Science na USP/ESALQ 
