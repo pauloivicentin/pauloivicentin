@@ -10,9 +10,13 @@
 
 ## Habilidades Técnicas / Stecks
 > BI & Visualização: Excel, Power BI (DAX, Power Query, Modelagem), Figma (prototipação)
+
 > Bancos de Dados: MySQL, PostgreSQL, SQLite
+
 > Linguagens de Programação: Python (NumPy, Pandas)
+
 > Ambiente de Desenvolvimento: VS Code, Git, GitHub
+
 > Fundamentos de Cloud: AWS (S3, Glue, Athena), Databricks, Spark SQL
 
 ## Projetos publicados no Medium / Projects at Medium
