@@ -2,22 +2,18 @@
 
 ## Sobre mim / About me
 
-- Analista de Dados | Business Intelligence 
+- Analista Sênior de Modelagem Financeira - Flowinvest
 - Engenheiro Civil de formação pela UEM (Universidade Estadual de Maringá)  
 - Intercâmbio na Universidade do Porto (Portugal) com ênfase em gestão  
-- 5 anos de experiencia em atuação estratégica e empreendedora na Helius Engenharia 
+- 4 anos de experiência em finanças, modelagem e análise de dados
 - Realizando MBA de Data Analytics & Data Science na USP/ESALQ 
 
 ## Habilidades Técnicas / Stecks
-> BI & Visualização: Excel, Power BI (DAX, Power Query, Modelagem), Figma (prototipação)
-
-> Bancos de Dados: MySQL, PostgreSQL, SQLite
-
-> Linguagens de Programação: Python (NumPy, Pandas, Matplotlib)
-
-> Ambiente de Desenvolvimento: VS Code, Git, GitHub
-
-> Fundamentos de Cloud: AWS (S3, Glue, Athena), Databricks, Spark SQL
+| Finanças & Modelagem | BI & Visualização | Dados & Programação | Ambiente |
+|---|---|---|---|
+| Excel Avançado (VBA, Power Query) | Power BI (DAX, Power Query) | Python (Pandas, NumPy, Matplotlib) | VS Code, Jupyter Lab |
+| Modelagem Financeira & Valuation | Figma (prototipação) | SQL (MySQL, PostgreSQL, SQLite) | Git, GitHub |
+| FP&A | — | AWS (S3, Glue, Athena), Databricks | — |
 
 ## Projetos publicados no Medium / Projects at Medium
 
