@@ -4,7 +4,7 @@
 
 - Analista de Modelagem Financeira Sênior na FlowInvest | Corporate Finance | FP&A | M&A
 - Finanças com foco em análise de investimentos, modelagem financeira e planejamento estratégico
-- Avaliação de novos projetos (viabilidade, valuation), M&A e FP&A — com dados como diferencial analítico
+- Avaliação de novos projetos (viabilidade, valuation), M&A e FP&A — com skils de análise/ciência de dados como diferencial analítico
 - Python, SQL e Power BI para construir análises mais robustas, automatizar processos e comunicar resultados com clareza
 - Engenheiro Civil de formação pela UEM (Universidade Estadual de Maringá)
 - Intercâmbio na Universidade do Porto (Portugal) com ênfase em gestão
